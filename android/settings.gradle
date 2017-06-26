@@ -1,0 +1,3 @@
+rootProject.name = 'LightBox'
+
+include ':app'
